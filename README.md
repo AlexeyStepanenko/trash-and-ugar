@@ -1,2 +1,1 @@
-# trash-and-ugar
-Turn on catboost if you see a dataset!
+Start catboost if you see a dataset!
